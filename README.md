@@ -14,3 +14,8 @@ console.log(message);
 
 Powered By
 ![Skillup labs] (https://www.skilluplabs.com.au/skilluplabs_logo.jpg)
+
+## Run project in local
+
+* CLone `.env.example` to `.env`
+* Add values to environment variables   
